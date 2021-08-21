@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Prepare proposal for the new project",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Replace light bulb",
+      "completed": false
+    },
+    {
+      "title": "buy flutter ebook",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Subscribe to Fibre optic internet service",
+      "completed": false
+    },
+    {
+      "title": "Setup online meeting room",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "new task",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "new task",
+      "completed": true,
+      "id": 7
+    }
+  ]
+}

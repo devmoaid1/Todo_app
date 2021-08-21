@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../services/data_service.dart';
 import '../models/todo.dart';
-import '../models/data.dart';
 
 class TodoListScreen extends StatefulWidget {
   @override
