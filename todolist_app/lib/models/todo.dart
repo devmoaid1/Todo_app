@@ -1,5 +1,5 @@
 class Todo {
-  String id;
+  int id;
   String title;
   bool completed;
 
